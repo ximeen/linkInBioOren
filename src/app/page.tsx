@@ -14,8 +14,8 @@ export default function Home() {
         height={300}
           src="/profile.png"
           alt="profile image"
-          className="h-40 w-40 bg-no-repeat bg-cover bg-top rounded-full border-4 border-solid border-red-500" />
-        <section className="mt-10 flex flex-col gap-2 text-center items-center text-white">
+          className="h-auto w-52 bg-no-repeat bg-cover" />
+        <section className="mt-10 flex flex-col gap-2 text-center items-center">
           <div className="flex gap-2 items-center">
             <h3 className="text-2xl font-semibold text-zinc-800">Analogicatec</h3>
             <Image width={20} height={20} className="h-7 w-7 " src="/verify.png" alt="" />
