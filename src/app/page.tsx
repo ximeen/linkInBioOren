@@ -45,7 +45,7 @@ export default function Home() {
           />
            <ProductLinks
             Name='Contato Marabá-PA'
-            href='https://wa.me/5594992041445'
+            href='https://wa.me/5594991453838'
             icon={()=> <WhatsappLogo width={30} height={30}  className="mr-2"/>}
           />
             <ProductLinks
