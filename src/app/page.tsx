@@ -21,7 +21,7 @@ export default function Home() {
             <Image width={20} height={20} className="h-7 w-7 " src="/verify.png" alt="" />
           </div>
           <div>
-            <span className="flex justify-center max-w-xs gap-1 text-zinc-700">Automação e gestão de ponto / frequência,  controle de acesso para empresas / escolas / academias, com uso de software em nuvem e equipamentos de alta tecnologia.</span>
+            <span className="flex justify-center max-w-xs gap-1 text-zinc-700">Automação e gestão de ponto / frequência,  controle de acesso para empresas / escolas / academias, com uso de softwares em nuvem e equipamentos de alta tecnologia.</span>
           </div>
         </section>
       </header>
