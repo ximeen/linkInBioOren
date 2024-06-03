@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Analogicatec',
+  title: 'Oren Refrigeração',
   description: 'Página com links de redirecionamento!',
 }
 import { ReactNode } from "react"

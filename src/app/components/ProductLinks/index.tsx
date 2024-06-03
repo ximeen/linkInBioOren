@@ -8,7 +8,7 @@ interface LinkProps {
 }
 export default function Links({ href, Name, icon }: LinkProps) {
   return (
-    <div className="h-full flex  bg-green-500 text-zinc-100 font-semibold rounded-md items-center justify-around md:w-1/2 lg:w-1/3 transition-colors hover:bg-[#4ade80]">
+    <div className="h-full flex  bg-emerald-600 hover:bg-emerald-700 text-zinc-100 font-semibold rounded-md items-center justify-around md:w-1/2 lg:w-1/3 transition-colors">
     <>
       <a
         target={"_blank"}
