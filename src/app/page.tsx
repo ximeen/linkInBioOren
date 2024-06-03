@@ -45,7 +45,7 @@ export default function Home() {
           />
            <ProductLinks
             Name='Localização Balsas-MA'
-            href='https://www.google.com/maps/dir/-7.5150597,-46.0389515/Av.+Contorno+-+Potosi,+Balsas+-+MA,+65800-000/@-7.5165031,-46.0383938,16.75z/data=!4m8!4m7!1m0!1m5!1m1!1s0x92d5ef16b908309f:0xcd30bfb63cde1738!2m2!1d-46.0388872!2d-7.5149227?entry=ttu'
+            href='https://www.google.com.br/maps/place/Oren+Refrigera%C3%A7%C3%A3o+Automotiva/@-7.5148568,-46.0389255,17z/data=!4m6!3m5!1s0x92d5ef16b908309f:0xcd30bfb63cde1738!8m2!3d-7.5149332!4d-46.0388812!16s%2Fg%2F11r7sf7092?entry=ttu'
             icon={()=> <MapPin width={30} height={30}  className="mr-2"/>}
           />
          
