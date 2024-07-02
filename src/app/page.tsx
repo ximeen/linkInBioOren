@@ -34,7 +34,7 @@ export default function Home() {
             />
             <ProductLinks
               Name='WhatsApp'
-              href='https://wa.me/5599933219110'
+              href='https://wa.me/559933219110'
               icon={()=> <WhatsappLogo width={30} height={30}  className="mr-2"/> }
             />
             <ProductLinks
